@@ -1,8 +1,7 @@
-# React + Vite
+# Agency Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This agency website is build using React.js and Tailwind CSS.
 
-Currently, two official plugins are available:
+Thanks to Franklin Anto (Founder of <a href="www.youtube.com/@JAFSCodeSchoolTamil">JAFS Code School Tamil ↗️</a>)  for an Amazing Playlist on Tailwind CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Check out the playlist <a href="https://youtube.com/playlist?list=PLXCfOoPnFIbsY2cZjYlBiL09QI0DBWrZ6&si=INQ5bZrK4lWeT4F-">here</a>
